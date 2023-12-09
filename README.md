@@ -1,2 +1,6 @@
 # CSE220-Computer-Architecture
-CSE-220 Class project
+To run
+
+```
+./rhsort_final.sh
+```
